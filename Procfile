@@ -1,0 +1,1 @@
+java $JAVA_OPTS -cp target/classes:target/dependency/* com.agora.chat.token.io.agora.AgoraChatTokenStarter
